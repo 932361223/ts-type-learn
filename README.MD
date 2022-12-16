@@ -17,3 +17,7 @@ https://www.typescriptlang.org/docs/handbook/2/generics.html#generic-constraints
 ### Readonly 只读
 
 https://www.typescriptlang.org/docs/handbook/utility-types.html#readonlytype
+
+### typeof
+
+https://www.typescriptlang.org/docs/handbook/2/typeof-types.html#handbook-content
