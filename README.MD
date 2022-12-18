@@ -21,3 +21,7 @@ https://www.typescriptlang.org/docs/handbook/utility-types.html#readonlytype
 ### typeof
 
 https://www.typescriptlang.org/docs/handbook/2/typeof-types.html#handbook-content
+
+### 严格模式和非严格模式的区别
+
+https://www.typescriptlang.org/docs/handbook/type-compatibility.html
