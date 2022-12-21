@@ -28,4 +28,4 @@ https://www.typescriptlang.org/docs/handbook/type-compatibility.html
 
 ### infer
 
-https://github.com/Microsoft/TypeScript/pull/24897tml
+https://github.com/Microsoft/TypeScript/pull/24897

@@ -1,7 +1,6 @@
 type MyOmit<T, K extends keyof T> = {
   [P in Exclude<keyof T, K>]: T[P]
 }
-
 // js
 const MyOmit = (T, K) => {
   const obj = {}
@@ -10,9 +9,4 @@ const MyOmit = (T, K) => {
     obj[key] = T[key]
   }
   return obj
-}
-interface Todo {
-  title: string
-  description: string
-  completed: boolean
 }
