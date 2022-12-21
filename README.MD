@@ -25,3 +25,7 @@ https://www.typescriptlang.org/docs/handbook/2/typeof-types.html#handbook-conten
 ### 严格模式和非严格模式的区别
 
 https://www.typescriptlang.org/docs/handbook/type-compatibility.html
+
+### infer
+
+https://github.com/Microsoft/TypeScript/pull/24897tml
